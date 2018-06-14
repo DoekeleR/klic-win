@@ -1,6 +1,6 @@
 ﻿# Geplande werkzaamheden
 
-### Planning per 29 mei 2018
+### Planning per 29 mei 2018, geplande release datum XXXXXX
 De komende periode worden de volgende onderwerpen geïmplementeerd in de NTD.
 
 **Huisaansluitschetsen**:
